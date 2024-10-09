@@ -99,7 +99,7 @@ print("9. Sum of first 50 Fibonacci numbers:", fib_sum)
 # 3. Median color
 # 4. Variance of colors (BONUS)
 # 5. Probability of choosing red at random (BONUS)
-# 6. Save colors and frequencies to PostgreSQL database
+# 6. Save colors and frequencies to PostgreSQL database***
 # 7. Recursive searching algorithm (BONUS)
 # 8. Generate random 4-digit binary number and convert to base 10
 # 9. Sum first 50 Fibonacci numbers
